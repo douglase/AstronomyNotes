@@ -78,7 +78,8 @@ TRAPPIST poster (NASA):
 Double the Rubble (Artist Concept, NASA/JPL-Caltech):
 ![](NASA-JPL-Caltech_-_Double_the_Rubble_PIA11375pd.jpg)
 
-(From D. Backman et al 2009 ApJ 690 1522)![](http://iopscience.iop.org/0004-637X/690/2/1522/downloadHRFigure/figure/apj292138f5)
+Eps Eri SED (From D. Backman et al 2009 ApJ 690 1522):
+![](http://iopscience.iop.org/0004-637X/690/2/1522/downloadHRFigure/figure/apj292138f5)
 
 Other possible images:
 
