@@ -40,7 +40,7 @@ Oct*. (xkcd.com Exoplanets illustration:)
 - **Activity** 4 minutes. Ask your neighbor, If we discover life on
   another world, would your life change? How?
 - 5 minutes Asteroid belts we know about -  Epsilon Eridani (Backman et al 2009):
-  - What we know (https://doi.org/10.1088/0004-637X/690/2/1522) (explain what plot means, draw copy on board, what's
+  - What we know (SED) (explain what plot means, draw copy on board, what's
     an errorbar?):
     (add colored pencil rainbow)
   -  print of what our imagination sees  https://photojournal.jpl.nasa.gov/catalog/PIA11375:
@@ -57,14 +57,28 @@ back at you. Replace the firefly with a minauture planet and try to
 discern if it has life...
 
 
+https://apod.nasa.gov/apod/ap110701.html:
 ![](https://apod.nasa.gov/apod/image/1107/varHubblepanel_hst.jpg)
+
+https://xkcd.com/1071/:
 ![XKCD Planets as of 2012](http://imgs.xkcd.com/comics/exoplanets_large.png)
+
+Apollo Earthrise (NASA)
 ![](https://history.nasa.gov/ap11ann/kippsphotos/6550.jpg)
+
+Planet transit illustration (NASA):
 ![http://www.planetary.org/multimedia/space-images/charts/anatomy-of-a-planetary.html](http://planetary.s3.amazonaws.com/assets/images/temp/20130108_Planetary_transit.jpg)
+
+Venus (NASA):
 ![](https://www.nasa.gov/images/content/591935main_venus-clouds-lgweb.jpg)
+
+TRAPPIST poster (NASA):
 ![](https://exoplanets.nasa.gov/system/downloadable_items/315_TRAPPIST-1e_PRINT_E.jpg)
+
+Double the Rubble (Artist Concept, NASA/JPL-Caltech):
 ![](NASA-JPL-Caltech_-_Double_the_Rubble_PIA11375pd.jpg)
-![](http://iopscience.iop.org/0004-637X/690/2/1522/downloadHRFigure/figure/apj292138f5)
+
+(From D. Backman et al 2009 ApJ 690 1522)![](http://iopscience.iop.org/0004-637X/690/2/1522/downloadHRFigure/figure/apj292138f5)
 
 Other possible images:
 
