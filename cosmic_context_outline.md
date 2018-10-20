@@ -13,7 +13,7 @@
 ## Cosmic Context - What we don't know about our place
 - Why don't we know if we are alone? Where are the pictures of other
 planets? **Print of Earth from Apollo photo**
-- Distance to nearby town _(find town for alpha centuari)_
+- Distance to nearby town _(Boston USA to Quito Chile works for a soccer-ball sized sun to proxima centauri)_
 - Size of sun
 - **Activity** (5 min) walk from the sun to the earth, given size of earth relative to sun (1/100)
 - solar system context - stars with known planets - still working on
