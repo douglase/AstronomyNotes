@@ -4,8 +4,8 @@
 ## Cosmic Context - Time
 - starting **Activity** 3 minutes? Heart beat exercise, have
 	everyone feel the number beats that correspond to the same
-	fraction of their time on earth as a their	time on earth is a
-	fraction of the age of the universe.	
+	fraction of their time on earth as a their time on earth is a
+	fraction of the age of the universe. 2 beats for every 15 year old -- so if you're 90, count to 12.
 - What: 13 billion year old universe
 
 
