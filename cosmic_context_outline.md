@@ -13,12 +13,12 @@
 ## Cosmic Context - What we don't know about our place
 - Why don't we know if we are alone? Where are the pictures of other
 planets? **Print of Earth from Apollo photo**
-- Distance to nearby town _(Boston USA to Quito Chile works for a soccer-ball sized sun to proxima centauri)_
 - Size of sun
 - **Activity** (5 min) walk from the sun to the earth, given size of earth relative to sun (1/100)
 - solar system context - stars with known planets - still working on
 the census. *lookup latest discovered planet number on 20
 Oct*. (xkcd.com Exoplanets illustration:)
+- Distance to another star _(Boston USA to Quito Chile works for a soccer-ball sized sun to proxima centauri)_
 - so, why have we discovered some planets?
 -  5 minutes on planets we know about.
    - only in the past few years have we started to have a census of
@@ -34,7 +34,6 @@ what can we learn by finding these planets?
 	
 - **Activity** 4 minutes. Ask your neighbor, If we discover life on
 another world, would your life change? How?
-- firefly in chicago.
 
 These are two of the nearest star systems we know about,
 but we know very little about them. And our census of nearby stars is
@@ -42,52 +41,57 @@ incomplete, so we don't know if there are other nearer stars that have
 Earthlike planets. 
 
 Concluding activity: *2 min* Imaging firefly in the midwest. imagine a pair of binoculars
-large enough to see it from portland (about as big as a 30 ft
+large enough to see it from Maine (about as big as a 30 ft
 sailboat). Now imagine a spotlight a yard from the firefly, pointed
 back at you. Replace the firefly with a minauture planet and try to
 discern if it has life...
+- finding earth around another star is like looking down the chicago world's fair spotlight and seeing a firefly  next to it - in Chicago, from the East Coast.
 
 props:
 
 * large ball (basket or soccer ball) = sun
-* pinhead (earth)
-* pound of flour - stars in galaxy
+* pinhead or mustard seed (Earth)
+* liter of flour - stars in galaxy, depending on the size of the milled grains of floor
+* small red baseball - [M dwarf star](https://en.wikipedia.org/wiki/M_dwarf) 
 
-
-
+Images:
+Edwin Hubble's plate showing the universe is made up of galaxies: 
 https://apod.nasa.gov/apod/ap110701.html:
-![](https://apod.nasa.gov/apod/image/1107/varHubblepanel_hst.jpg)
+![Edwin Hubble's plate showing the universe is made up of galaxies](https://apod.nasa.gov/apod/image/1107/varHubblepanel_hst.jpg)
 
+Discovered planets as of 2012:
 https://xkcd.com/1071/:
 ![XKCD Planets as of 2012](http://imgs.xkcd.com/comics/exoplanets_large.png)
 
-Apollo Earthrise (NASA)
-![](https://history.nasa.gov/ap11ann/kippsphotos/6550.jpg)
+
+Apollo Earthrise (NASA):
+![
+Apollo Earthrise (NASA](https://history.nasa.gov/ap11ann/kippsphotos/6550.jpg)
 
 Planet transit illustration (NASA):
 ![http://www.planetary.org/multimedia/space-images/charts/anatomy-of-a-planetary.html](http://planetary.s3.amazonaws.com/assets/images/temp/20130108_Planetary_transit.jpg)
 
-Venus (NASA):
+Venus cloud in the UV (NASA):
 ![](https://www.nasa.gov/images/content/591935main_venus-clouds-lgweb.jpg)
 
 TRAPPIST poster (NASA):
 ![](https://exoplanets.nasa.gov/system/downloadable_items/315_TRAPPIST-1e_PRINT_E.jpg)
 
-Double the Rubble (Artist Concept, NASA/JPL-Caltech):
+Extrasolar Asteroid Belt around Epsilon Eridani - "Double the Rubble" (Artist Concept, NASA/JPL-Caltech):
 ![](NASA-JPL-Caltech_-_Double_the_Rubble_PIA11375pd.jpg)
 
-Eps Eri SED (From D. Backman et al 2009 ApJ 690 1522):
-![](http://iopscience.iop.org/0004-637X/690/2/1522/downloadHRFigure/figure/apj292138f5)
-
-Other possible images:
-
-- photo of Henrietta Leavitt at work on standard candles from AIP ![https://commons.wikimedia.org/wiki/File:Leavitt_henrietta_b1.jpg](https://upload.wikimedia.org/wikipedia/commons/4/46/Leavitt_henrietta_b1.jpg)
-    
-- 5 minutes Asteroid belts we know about -  Epsilon Eridani (Backman et al 2009):
+- Asteroid belts we know about -  Epsilon Eridani (Backman et al 2009):
   - What we know (SED) (explain what plot means, draw copy on board, what's
     an errorbar?):
     (add colored pencil rainbow)
   -  print of what our imagination sees  https://photojournal.jpl.nasa.gov/catalog/PIA11375:
+  
+Eps Eri spectral energy distribution (From D. Backman et al 2009 ApJ 690 1522):
+![](http://iopscience.iop.org/0004-637X/690/2/1522/downloadHRFigure/figure/apj292138f5)
+
+- photo of Henrietta Leavitt at work on standard candles from AIP ![https://commons.wikimedia.org/wiki/File:Leavitt_henrietta_b1.jpg](https://upload.wikimedia.org/wikipedia/commons/4/46/Leavitt_henrietta_b1.jpg)
+    
+
 
 - Why: Universe is expanding
 	- How do we know that, and who?:
