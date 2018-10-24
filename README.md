@@ -1,3 +1,4 @@
+A collection of useful astronomy resources and lecture notes.
 
 [Cosmic Context Lecture notes](cosmic_context_outline.md) for the Henrietta Schwartz Forum, Maine Humanities Council, 20 October 2018.
 
