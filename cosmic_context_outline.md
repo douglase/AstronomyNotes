@@ -93,7 +93,8 @@ Eps Eri spectral energy distribution (From D. Backman et al 2009 ApJ 690 1522):
     
 
 
-- Why: Universe is expanding
+## Why: Universe is expanding
+
 	- How do we know that, and who?:
 		- Explain standard candles and show the data
 		- stars in the sky have different brightnesses but some produce the
@@ -110,6 +111,12 @@ Eps Eri spectral energy distribution (From D. Backman et al 2009 ApJ 690 1522):
 		- Show how the precision of measurement has increased over time,
 		converging on the age of the universe
 
+
+## Further reading:
+
+Johnson, J. A. (2015). How Do You Find an Exoplanet? Princeton University Press.
+
+Jones, C. (2016, December 7). The Woman Who Might Find Us Another Earth. The New York Times. https://www.nytimes.com/2016/12/07/magazine/the-world-sees-me-as-the-one-who-will-find-another-earth.html
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
