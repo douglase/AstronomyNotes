@@ -95,7 +95,7 @@ Eps Eri spectral energy distribution (From D. Backman et al 2009 ApJ 690 1522):
 
 ## Why: Universe is expanding
 
-	- How do we know that, and who?:
+- How do we know that, and who?:
 		- Explain standard candles and show the data
 		- stars in the sky have different brightnesses but some produce the
 		  same amount of light regardless of their distance, oscillating
