@@ -25,7 +25,7 @@ Oct*. (xkcd.com Exoplanets illustration:)
      planets, by searching hundreds of thousands of stars for planets
      passing in front of stars
 	- what our imagination sees - print of Trappist-1 poster 
-	- what do we know **use basketball to show how a transit works**: (https://exoplanets.nasa.gov/system/downloadable_items/315_TRAPPIST-1e_PRINT_E.jpg):
+	- what do we know **use basketball or yellow soccer ball to show how a transit works**: (https://exoplanets.nasa.gov/system/downloadable_items/315_TRAPPIST-1e_PRINT_E.jpg):
 	- print of Venus
 
 what can we learn by finding these planets?
