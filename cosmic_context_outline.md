@@ -66,7 +66,7 @@ https://xkcd.com/1071/:
 
 Apollo Earthrise (NASA):
 ![
-Apollo Earthrise (NASA](https://history.nasa.gov/ap11ann/kippsphotos/6550.jpg)
+Apollo Earthrise (NASA](apollo08_earthrise.jpg)
 
 Planet transit illustration (NASA):
 ![http://www.planetary.org/multimedia/space-images/charts/anatomy-of-a-planetary.html](http://planetary.s3.amazonaws.com/assets/images/temp/20130108_Planetary_transit.jpg)
