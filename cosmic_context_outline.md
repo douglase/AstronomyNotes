@@ -71,11 +71,14 @@ Apollo Earthrise (NASA](apollo08_earthrise.jpg)
 Planet transit illustration (NASA):
 ![http://www.planetary.org/multimedia/space-images/charts/anatomy-of-a-planetary.html](http://planetary.s3.amazonaws.com/assets/images/temp/20130108_Planetary_transit.jpg)
 
-Venus clouds in the UV (NASA):
-![Venus clouds in the UV](https://www.nasa.gov/images/content/591935main_venus-clouds-lgweb.jpg)
+Venus clouds in the UV (NASA, https://www.jpl.nasa.gov/images/pia00072-venus-cloud-patterns-colorized-and-filtered):
+![Venus clouds in the UV](jpegPIA00072.jpg)
 
-TRAPPIST poster (NASA):
-![](https://exoplanets.nasa.gov/system/downloadable_items/315_TRAPPIST-1e_PRINT_E.jpg)
+TRAPPIST poster (NASA, https://www.nasa.gov/stem-content/trappist-1-exoplanet-poster/):
+![
+TRAPPIST-1 Exoplanet Poster
+](
+TRAPPIST-1e_LEO_12x18.jpeg)
 
 Extrasolar Asteroid Belt around Epsilon Eridani - "Double the Rubble" (Artist Concept, NASA/JPL-Caltech):
 ![](NASA-JPL-Caltech_-_Double_the_Rubble_PIA11375pd.jpg)
